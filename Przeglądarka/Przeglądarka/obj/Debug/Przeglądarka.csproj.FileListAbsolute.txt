@@ -1,0 +1,15 @@
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Przeglądarka.csprojAssemblyReference.cache
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Przeglądarka.Przegladarka.resources
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Przeglądarka.Properties.Resources.resources
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Przeglądarka.csproj.GenerateResource.cache
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Przeglądarka.csproj.CoreCompileInputs.cache
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\bin\Debug\Edu-Przeglądarka.exe.config
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\bin\Debug\Edu-Przeglądarka.exe
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\bin\Debug\Edu-Przeglądarka.pdb
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Edu-Przeglądarka.exe
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Edu-Przeglądarka.pdb
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\bin\Debug\Edu-Przeglądarka.exe.manifest
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\bin\Debug\Edu-Przeglądarka.application
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Edu-Przeglądarka.TrustInfo.xml
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Edu-Przeglądarka.exe.manifest
+C:\Users\bubum\Source\Repos\Przeglądarka\Przeglądarka\obj\Debug\Edu-Przeglądarka.application
